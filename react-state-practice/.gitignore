@@ -23,7 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-*.jsx
-src/Countex.jsx
-src/LikeButton.jsx
-src/LudoGame.jsx
+
