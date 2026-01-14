@@ -23,4 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# Ignore specific JSX files
+src/Counter.jsx
+src/LikeButton.jsx
+src/LudoGame.jsx
 
